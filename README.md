@@ -1,2 +1,2 @@
 TinCat 
-To Check This App : https://tincat-gouri-shankar.netlify.app/
+To Check This App : https://joeaselvanrgtincat.netlify.app/
